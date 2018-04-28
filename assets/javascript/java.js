@@ -147,9 +147,5 @@ $(document).ready(function() {
             ldisplay.textContent=dstring;
 
         }
-       // else{
-      //      console.log(rguess);
-      //  }
-
     });
 })

@@ -3,6 +3,12 @@
     src:url("../other/mariofont.ttf");
 }
 
+body{
+    background: url(../images/marioback.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
 .gameboard{
     font-family: 'mario', 'Times New Roman', Times, serif;
     background-color: aqua;
